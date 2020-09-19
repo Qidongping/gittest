@@ -1,0 +1,12 @@
+el-slider {
+    width: 600px;
+}
+
+:host ::ng-deep .el-slider {
+    width: 200px;
+}
+
+:host ::ng-deep .el-slider__button {
+    width: 8px;
+    height: 8px;
+}
